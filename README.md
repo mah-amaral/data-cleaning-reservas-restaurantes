@@ -5,7 +5,7 @@ Pipeline de tratamento, padronização e enriquecimento de dados de reservas par
 
 Projeto desenvolvido com foco em boas práticas de Data Cleaning e preparação de dados para BI.
 
-> ⚠️ Dados fictícios e anonimizados. Nenhuma informação sensível ou real é utilizada.
+> ⚠️ Os nomes de marcas e unidades são utilizados exclusivamente para fins educacionais, sem representar dados operacionais reais.
 
 ---
 
