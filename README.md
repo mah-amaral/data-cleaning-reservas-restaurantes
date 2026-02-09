@@ -25,13 +25,6 @@ Projeto desenvolvido com foco em boas práticas de Data Cleaning e preparação 
 
 ---
 
-## 📂 Estrutura
-- `notebooks/` → Notebook principal do projeto
-- `data/` → Base fictícia de entrada
-- `outputs/` → Base tratada final
-
----
-
 ## 📈 Aplicações
 - Dashboards operacionais
 - Análises de reservas
